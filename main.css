@@ -1,0 +1,43 @@
+/* Styling */
+
+body {
+    background: gray;
+    margin: 50px 100px 0 100px;
+}
+
+div {
+    background: white;
+    padding: 10px;
+    border: 5px solid black;    
+    font-weight: lighter;
+    font-size: 150%;        
+    color: black;        
+    text-align: center;
+}
+
+div:hover {
+    background: tomato;
+}
+
+.container {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    
+    background: black;
+    border: 2px solid black;
+}
+
+
+/* Flexbox dynamics */
+
+/* .container {
+    display: flex;
+} */
+/* flex-direction: row;  */
+/* justify-content */
+
+/*#logout {
+    margin-left: auto;
+}
+
+.container > div{
+    flex: 1;
+} */
